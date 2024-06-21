@@ -1,0 +1,8 @@
+.main-page {
+  padding: 20px;
+  height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+  color: white;
+  background-color: #041e41;
+}

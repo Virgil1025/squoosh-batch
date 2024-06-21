@@ -1,0 +1,3 @@
+sudo rm -r node_modules
+
+sudo docker cp nestjs-tutorial:/app/graphql-mongodb/node_modules ./
